@@ -110,6 +110,7 @@ input[type="email"] {
 
 .go {
     border-radius: 20px;
+    color: red;
 }
 
 .click-me, button[type=submit], .deliver, .delivernot {
@@ -178,7 +179,7 @@ h4 {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
-/*Background pic*/
+
 .landing {
     background-image: url("../images/pizzabg.jpeg");
     background-size: cover;
@@ -265,7 +266,6 @@ figure img {
     background: transparent !important;
 }
 
-/* Collapse nav end*/
 
 
 /** Media Queries start **/
