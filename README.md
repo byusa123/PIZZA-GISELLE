@@ -9,8 +9,9 @@ A pizza ordering platform.
 Byusa  Giselle Uwase
 
 ## Screenshot:
-<img src="images/Capture.PNG" width="1000">
+<img src="images/Capture3.PNG" width="1000">
 <img src="images/screenshoot.PNG" width="1000">
+<img src="images/Capture2.PNG" width="1000">
 
 ## Setup:
 `git clone https://github.com/byusa123/PIZZA-GISELLE.git` or download the zip file
