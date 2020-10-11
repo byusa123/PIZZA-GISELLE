@@ -24,7 +24,7 @@ Extract the zip file
 
 # Technologies:
 * HTML5
-* CSS this include css animation library written nickipettit
+* CSS this include css animation library written nickipettit https://github.com/nickpettit/glide
 * Bootstrap
 * Javascript
 * Jquery
