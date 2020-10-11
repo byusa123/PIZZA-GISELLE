@@ -24,7 +24,7 @@ Extract the zip file
 
 # Technologies:
 * HTML5
-* CSS
+* CSS this include css animation library written nickipettit
 * Bootstrap
 * Javascript
 * Jquery
