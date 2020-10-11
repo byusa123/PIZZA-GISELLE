@@ -33,7 +33,7 @@ Extract the zip file
  Inputs   Description 
 
 
- Pizza size     : `eg medium`   
+ Pizza size     : `eg small`   
  Pizza crust    : `eg flatbread crust`   
 Pizza topping     :`eg Beef peperoni`  
 Number of pizzas   : `eg 3`   
